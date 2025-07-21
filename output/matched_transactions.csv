@@ -1,0 +1,5 @@
+bank_Amount,bank_Date,bank_Description,erp_Amount,erp_Date,erp_Description,match_confidence,description_similarity,amount_difference,date_difference
+100.0,2024-01-01,Payment to ABC Corp,100.0,2024-01-01,ABC Corporation Invoice,0.8566666666666666,57.14285714285714,0.0,0
+-50.0,2024-01-02,ATM Withdrawal Main St,-45.0,2024-01-02,Cash Withdrawal,0.8566666666666666,64.86486486486487,5.0,0
+200.0,2024-01-03,Salary Credit,200.0,2024-01-03,Monthly Salary,0.8566666666666666,59.25925925925925,0.0,0
+150.0,2024-01-06,Freelance Payment,150.0,2024-01-06,Contract Payment,0.8566666666666666,66.66666666666667,0.0,0

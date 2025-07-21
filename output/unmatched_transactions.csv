@@ -1,0 +1,4 @@
+Amount,Date,Description,anomaly
+75.5,2024-01-04,Grocery Store Purchase,0
+-25.0,2024-01-05,Coffee Shop,0
+-120.0,2024-01-07,Utility Bill Payment,0

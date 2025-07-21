@@ -1,0 +1,12 @@
+README.md
+setup.py
+app/__init__.py
+app/reconcile.py
+app/trainer.py
+app/ui.py
+bank_rec_ai.egg-info/PKG-INFO
+bank_rec_ai.egg-info/SOURCES.txt
+bank_rec_ai.egg-info/dependency_links.txt
+bank_rec_ai.egg-info/entry_points.txt
+bank_rec_ai.egg-info/requires.txt
+bank_rec_ai.egg-info/top_level.txt

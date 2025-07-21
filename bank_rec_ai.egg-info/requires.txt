@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+numpy
+xgboost
+joblib
+streamlit
+openpyxl
+rapidfuzz
+psycopg2-binary
+cx_Oracle
+pyinstaller

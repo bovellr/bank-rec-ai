@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: bank-rec-ai
+Version: 0.1.0
+Summary: Bank reconciliation tool with AI capabilities
+Author: Roger Bovell
+Author-email: roger.bovell@gmail.com
+Keywords: banking,reconciliation,AI
+Requires-Python: >=3.6
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: numpy
+Requires-Dist: xgboost
+Requires-Dist: joblib
+Requires-Dist: streamlit
+Requires-Dist: openpyxl
+Requires-Dist: rapidfuzz
+Requires-Dist: psycopg2-binary
+Requires-Dist: cx_Oracle
+Requires-Dist: pyinstaller
+Dynamic: author
+Dynamic: author-email
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
