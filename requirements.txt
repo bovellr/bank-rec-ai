@@ -9,3 +9,4 @@ rapidfuzz
 psycopg2-binary
 cx_Oracle
 pyinstaller
+chardet

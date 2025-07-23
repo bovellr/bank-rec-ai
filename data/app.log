@@ -1,0 +1,52 @@
+2025-07-23 00:21:35,746 - INFO - 🏦 Transforming lloyds statement: 5 rows
+2025-07-23 00:21:35,747 - INFO - 📋 Using template: Lloyds Bank
+2025-07-23 00:21:35,748 - INFO - 📋 Headers: ['posting date', 'type', 'details', 'debits', 'credits']
+2025-07-23 00:21:35,749 - INFO - Using date column index: 0 (header: 'posting date')
+2025-07-23 00:21:35,749 - INFO - 💰 Found 2 transactions
+2025-07-23 00:21:35,749 - ERROR - ❌ Transformation failed: cannot import name 'parse_amount' from 'app.utils' (/home/bovellr/bank-rec-ai/app/utils.py)
+2025-07-23 00:26:06,206 - INFO - 🏦 Transforming lloyds statement: 5 rows
+2025-07-23 00:26:06,207 - INFO - 📋 Using template: Lloyds Bank
+2025-07-23 00:26:06,208 - INFO - 📋 Headers: ['posting date', 'type', 'details', 'debits', 'credits']
+2025-07-23 00:26:06,209 - INFO - Using date column index: 0 (header: 'posting date')
+2025-07-23 00:26:06,209 - INFO - 💰 Found 2 transactions
+2025-07-23 00:26:06,213 - WARNING - Could not parse amount: '11-Apr-2025'
+2025-07-23 00:26:06,213 - WARNING - Could not parse amount: '12-Apr-2025'
+2025-07-23 00:26:06,213 - INFO - ✅ Successfully transformed 2 transactions
+2025-07-23 00:30:07,897 - INFO - 🏦 Transforming lloyds statement: 5 rows
+2025-07-23 00:30:07,897 - INFO - 📋 Using template: Lloyds Bank
+2025-07-23 00:30:07,899 - INFO - 📋 Headers: ['posting date', 'type', 'details', 'debits', 'credits']
+2025-07-23 00:30:07,900 - INFO - Using date column index: 0 (header: 'posting date')
+2025-07-23 00:30:07,900 - INFO - 💰 Found 2 transactions
+2025-07-23 00:30:07,904 - WARNING - Could not parse amount: '11-Apr-2025'
+2025-07-23 00:30:07,904 - WARNING - Could not parse amount: '12-Apr-2025'
+2025-07-23 00:30:07,905 - INFO - ✅ Successfully transformed 2 transactions
+2025-07-23 00:44:18,252 - INFO - 🏦 Transforming lloyds statement: 5 rows
+2025-07-23 00:44:18,252 - INFO - 📋 Using template: Lloyds Bank
+2025-07-23 00:44:18,253 - INFO - 📋 Headers: ['posting date', 'type', 'details', 'debits', 'credits']
+2025-07-23 00:44:18,254 - INFO - Using date column index: 0 (header: 'posting date')
+2025-07-23 00:44:18,254 - INFO - 💰 Found 2 transactions
+2025-07-23 00:44:18,255 - WARNING - Could not parse amount: '11-Apr-2025'
+2025-07-23 00:44:18,255 - WARNING - Could not parse amount: '12-Apr-2025'
+2025-07-23 00:44:18,256 - INFO - ✅ Successfully transformed 2 transactions
+2025-07-23 00:51:07,495 - INFO - 🏦 Transforming lloyds statement: 5 rows
+2025-07-23 00:51:07,495 - INFO - 📋 Using template: Lloyds Bank
+2025-07-23 00:51:07,498 - INFO - 📋 Headers: ['posting date', 'type', 'details', 'debits', 'credits']
+2025-07-23 00:51:07,498 - INFO - Using date column index: 0 (header: 'posting date')
+2025-07-23 00:51:07,499 - INFO - 💰 Found 2 transactions
+2025-07-23 00:51:07,500 - WARNING - Could not parse amount: '11-Apr-2025'
+2025-07-23 00:51:07,500 - WARNING - Could not parse amount: '12-Apr-2025'
+2025-07-23 00:51:07,500 - INFO - ✅ Successfully transformed 2 transactions
+2025-07-23 01:30:32,310 - INFO - 🏦 Transforming lloyds statement: 5 rows
+2025-07-23 01:30:32,311 - INFO - 📋 Using template: Lloyds Bank
+2025-07-23 01:30:32,312 - INFO - 📋 Headers: ['posting date', 'type', 'details', 'debits', 'credits']
+2025-07-23 01:30:32,313 - INFO - Using date column index: 0 (header: 'posting date')
+2025-07-23 01:30:32,313 - INFO - 💰 Found 2 transactions
+2025-07-23 01:30:32,314 - WARNING - Could not parse amount: '11-Apr-2025'
+2025-07-23 01:30:32,314 - WARNING - Could not parse amount: '12-Apr-2025'
+2025-07-23 01:30:32,315 - INFO - ✅ Successfully transformed 2 transactions
+2025-07-23 01:30:44,924 - INFO - 🏦 Transforming lloyds statement: 5 rows
+2025-07-23 01:30:44,925 - INFO - 📋 Using template: Lloyds Bank
+2025-07-23 01:30:44,925 - INFO - 📋 Headers: ['posting date', 'type', 'details', 'debits', 'credits']
+2025-07-23 01:30:44,926 - INFO - Using date column index: 0 (header: 'posting date')
+2025-07-23 01:30:44,926 - INFO - 💰 Found 2 transactions
+2025-07-23 01:30:44,927 - INFO - ✅ Successfully transformed 2 transactions

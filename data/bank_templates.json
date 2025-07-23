@@ -1,0 +1,67 @@
+{
+  "lloyds_standard": {
+    "name": "Lloyds Bank - Standard Format",
+    "description": "Standard Lloyds statement with Posting Date, Type, Details, separate Debits/Credits",
+    "skip_rows": 7,
+    "date_column": "Posting Date",
+    "date_format": "%d-%b-%Y",
+    "amount_handling": "split",
+    "amount_column": "Amount",
+    "debit_column": "Debits",
+    "credit_column": "Credits",
+    "description_columns": [
+      "Type",
+      "Details"
+    ],
+    "header_detection": {
+      "contains": "Posting Date"
+    }
+  },
+  "natwest_standard": {
+    "name": "NatWest - Standard Export",
+    "description": "NatWest export with Sort Code, Date, separate Debit/Credit columns",
+    "skip_rows": 1,
+    "date_column": "Date",
+    "date_format": "%d/%m/%Y",
+    "amount_handling": "split",
+    "amount_column": "Amount",
+    "debit_column": "Debit",
+    "credit_column": "Credit",
+    "description_columns": [
+      "Narrative"
+    ],
+    "header_detection": {
+      "contains": "Sort Code"
+    }
+  },
+  "rbs_standard": {
+    "name": "RBS - Standard Format",
+    "description": "RBS statement with single Amount column",
+    "skip_rows": 2,
+    "date_column": "Date",
+    "date_format": "%d/%m/%Y",
+    "amount_handling": "single",
+    "amount_column": "Amount",
+    "debit_column": "Debit",
+    "credit_column": "Credit",
+    "description_columns": [
+      "Description"
+    ],
+    "header_detection": {}
+  },
+  "generic_csv": {
+    "name": "Generic CSV Format",
+    "description": "Generic CSV with Date, Description, Amount",
+    "skip_rows": 0,
+    "date_column": "Date",
+    "date_format": "%d/%m/%Y",
+    "amount_handling": "single",
+    "amount_column": "Amount",
+    "debit_column": "Debit",
+    "credit_column": "Credit",
+    "description_columns": [
+      "Description"
+    ],
+    "header_detection": {}
+  }
+}
